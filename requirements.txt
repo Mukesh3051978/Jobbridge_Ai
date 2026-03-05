@@ -1,0 +1,10 @@
+streamlit
+numpy
+sentence-transformers
+faiss-cpu
+PyMuPDF
+pillow
+bcrypt
+plotly
+scikit-learn
+python-docx
